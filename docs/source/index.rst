@@ -10,7 +10,7 @@ If your Canon printer isn’t connecting to your computer, check USB or Wi-Fi co
 Why Your Canon Printer May Not Be Connecting
 --------------------------------------------
 
-Before jumping into fixes, it helps to know what could be causing the problem. Common reasons include:
+Before jumping into fixes, it helps to know what could be causing the problem. Common reasons include
 
 - **Loose or Faulty USB Cables:**
 A damaged or improperly connected cable can prevent communication between your computer and printer.
